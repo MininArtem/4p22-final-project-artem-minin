@@ -1,0 +1,15 @@
+.common__button {
+  outline: none;
+  border: none;
+  background: black;
+  padding: 8px 20px;
+  color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+  transition: .2s background-color;
+  cursor: pointer;
+}
+
+.common__button:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
